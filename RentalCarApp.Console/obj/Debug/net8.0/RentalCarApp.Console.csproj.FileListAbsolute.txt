@@ -1,0 +1,36 @@
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.exe
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.deps.json
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.runtimeconfig.json
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.dll
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.pdb
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Models.dll
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Models.pdb
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.csproj.AssemblyReference.cache
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.AssemblyInfoInputs.cache
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.AssemblyInfo.cs
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\RentalCa.2582F39A.Up2Date
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.dll
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\refint\RentalCarApp.Console.dll
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.pdb
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.genruntimeconfig.cache
+C:\Users\slope\OneDrive\Escritorio\Programing CA1 77928 GROUP C\RentalCarApp.Console\obj\Debug\net8.0\ref\RentalCarApp.Console.dll
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.exe
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.deps.json
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.runtimeconfig.json
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.dll
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Console.pdb
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Models.dll
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\bin\Debug\net8.0\RentalCarApp.Models.pdb
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.csproj.AssemblyReference.cache
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.AssemblyInfoInputs.cache
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.AssemblyInfo.cs
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.csproj.CoreCompileInputs.cache
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\RentalCa.2582F39A.Up2Date
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.dll
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\refint\RentalCarApp.Console.dll
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.pdb
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\RentalCarApp.Console.genruntimeconfig.cache
+C:\Users\slope\OneDrive\Escritorio\oop-assignment-1-2025-77928-group-c\RentalCarApp.Console\obj\Debug\net8.0\ref\RentalCarApp.Console.dll
